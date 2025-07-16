@@ -1,4 +1,4 @@
-# Provision and Configure AWS EC2 Instance using Terraform and Ansible
+# How to Provision and Configure AWS EC2 Instance using Terraform and Ansible
 
 ## Overview
 
@@ -42,7 +42,7 @@ aws configure
 ## Project Structure
 
 ```
-How-To-Provision-and-Configure-an-AWS-EC2-Instance-using-Terraform-and-Ansible/
+Automate-AWS-EC2-Instance-Terraform-Ansible/
 ├── ansible/
 │   ├── ansible.cfg         # Ansible configuration
 │   └── playbook.yaml       # Main Ansible playbook
